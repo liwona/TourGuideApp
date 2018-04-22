@@ -20,9 +20,9 @@ public class TourAdapter extends FragmentPagerAdapter {
      * @param fm is the fragment manager that will keep each fragment's state in the adapter
      *           across swipes.
      */
-    public TourAdapter(FragmentManager fm) {
+    public TourAdapter(Context context, FragmentManager fm) {
         super(fm);
-        Context mContext;
+        mContext = context;
     }
 
     @Override
