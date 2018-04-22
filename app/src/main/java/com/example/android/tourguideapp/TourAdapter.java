@@ -19,11 +19,11 @@ public class TourAdapter extends FragmentPagerAdapter {
         if (position == 0) {
             return new CultureFragment();
         } else if (position == 1){
-            return new CultureFragment();
+            return new RestaurantsFragment();
         } else if (position == 2){
-            return new CultureFragment();
+            return new EventsFragment();
         } else {
-            return new CultureFragment();
+            return new PlacesFragment();
         }
     }
 
