@@ -6,7 +6,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 /**
- * Created by Iwona on 22.04.2018.
+ * {@link TourAdapter} is a {@link FragmentPagerAdapter} that can provide the layout for
+ * each list item based on a data source which is a list of {@link Word} objects.
  */
 
 public class TourAdapter extends FragmentPagerAdapter {
@@ -25,6 +26,9 @@ public class TourAdapter extends FragmentPagerAdapter {
         mContext = context;
     }
 
+    /**
+     * Return the {@link Fragment} that should be displayed for the given page number.
+     */
     @Override
     public Fragment getItem(int position) {
         if (position == 0) {
@@ -38,11 +42,18 @@ public class TourAdapter extends FragmentPagerAdapter {
         }
     }
 
+
+    /**
+     * Return the total number of pages.
+     */
     @Override
     public int getCount() {
         return 4;
     }
 
+    /**
+     * Return the {@link String} that should be displayed for given category
+     */
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
