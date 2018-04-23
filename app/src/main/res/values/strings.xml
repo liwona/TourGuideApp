@@ -76,13 +76,54 @@
 
     <!-- Strings for Events Fragment (ef) -->
     <!-- String for Element 0: Name-->
-    <string name="ef_element_0_name"></string>
+    <string name="ef_element_0_name">The Three Kings entourage 2018</string>
 
     <!-- String for Element 0: Location-->
-    <string name="ef_element_0_location"></string>
+    <string name="ef_element_0_location">Kraków Old Town</string>
 
     <!-- String for Element 0: Description-->
-    <string name="ef_element_0_description"></string>
+    <string name="ef_element_0_description">6th of January 2018\nTraditional celebration of the Day of the Three Kings</string>
+
+    <!-- String for Element 1: Name-->
+    <string name="ef_element_1_name">17. PZU Cracovia Maraton 2018</string>
+
+    <!-- String for Element 1: Location-->
+    <string name="ef_element_1_location">Streets of Kraków: Rynek Główny, Grodzka, Podzamcze, Powiśle,
+        Al. Krasińskiego, Al. Mickiewicza, Al. Focha, Al. 3 Maja, Plac Wszystkich Świętych, Konopnickiej,
+        Most Dębnicki, ul. Barska, Ludwinowska, Stoczniowców, Ofiar Dąbia, Widok, Wysockiej, Rondo Czyżyńskie,
+        Bulwarowa</string>
+
+    <!-- String for Element 1: Description-->
+    <string name="ef_element_1_description">22th of April 2018\nCracow\'s 17th edition of Marathon </string>
+
+    <!-- String for Element 2: Name-->
+    <string name="ef_element_2_name">18. Great Parade of the Dragons</string>
+
+    <!-- String for Element 2: Location-->
+    <string name="ef_element_2_location">Kraków Old Town &amp; Bulwary Wiślane</string>
+
+    <!-- String for Element 2: Description-->
+    <string name="ef_element_2_description">2nd-3rd of June 2018\nPerformance of the actors of the
+        Groteska Theater on the Vistula river and on the streets of Kraków.\nMore details: http://paradasmokow.pl</string>
+
+    <!-- String for Element 3: Name-->
+    <string name="ef_element_3_name">Restaurant Week</string>
+
+    <!-- String for Element 3: Location-->
+    <string name="ef_element_3_location">Diffrent restaurant in Kraków</string>
+
+    <!-- String for Element 3: Description-->
+    <string name="ef_element_3_description">18th - 30th of April 2018\nPossibility to visit and try the taste of multiply
+        restaurants in Kraków.\nMore details: https://restaurantweek.pl</string>
+
+    <!-- String for Element 4: Name-->
+    <string name="ef_element_4_name">International Festival of Independent Cinema: OFF CAMERA</string>
+
+    <!-- String for Element 4: Location-->
+    <string name="ef_element_4_location">Plac Szczepański, Kraków</string>
+
+    <!-- String for Element 4: Description-->
+    <string name="ef_element_4_description">27th of April - 6th of May 2018\nCinema Festival in Kraków.</string>
 
 
     <!-- Strings for Places Fragment (pf) -->

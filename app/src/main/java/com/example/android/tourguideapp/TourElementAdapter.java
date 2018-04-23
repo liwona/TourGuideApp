@@ -91,6 +91,11 @@ public class TourElementAdapter extends ArrayAdapter<TourElement> {
         int color = ContextCompat.getColor(getContext(), mColorResourceId);
         //Set the background color of the next container View
         textContainer.setBackgroundColor(color);
+        //Set the background color of the next container View
+        imageView.setBackgroundColor(color);
+        View primaryContainer = listItemView.findViewById(R.id.primary_container);
+        primaryContainer.setBackgroundColor(color);
+
 
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView
