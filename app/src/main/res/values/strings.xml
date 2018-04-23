@@ -128,13 +128,57 @@
 
     <!-- Strings for Places Fragment (pf) -->
     <!-- String for Element 0: Name-->
-    <string name="pf_element_0_name"></string>
+    <string name="pf_element_0_name">Zakrzówek &amp; Skałki Twardowskiego</string>
 
     <!-- String for Element 0: Location-->
-    <string name="pf_element_0_location"></string>
+    <string name="pf_element_0_location">Skałki Twardowskiego, 30-001 Kraków</string>
 
     <!-- String for Element 0: Description-->
-    <string name="pf_element_0_description"></string>
+    <string name="pf_element_0_description">Places where you can sit and appreciate sunset or try
+        to dive in the Zalew Zakrzówek</string>
+
+    <!-- String for Element 1: Name-->
+    <string name="pf_element_1_name">Krakus Mound (Kopiec Kraka)</string>
+
+    <!-- String for Element 1: Location-->
+    <string name="pf_element_1_location">Kopiec Krakusa, 30-543 Kraków</string>
+
+    <!-- String for Element 1: Description-->
+    <string name="pf_element_1_description">It is a tumulus located in the Podgórze district of
+        Kraków, thought to be the resting place of Kraków\'s mythical founder,
+        the legendary King Krakus. You can meet here with friends or even organize a barbecue.</string>
+
+    <!-- String for Element 2: Name-->
+    <string name="pf_element_2_name">Tyniec (by bike)</string>
+
+    <!-- String for Element 2: Location-->
+    <string name="pf_element_2_location">Bulwary bike\'s route &amp; Tyniec</string>
+
+    <!-- String for Element 2: Description-->
+    <string name="pf_element_2_description">Tyniec is notable for its famous Benedictine abbey
+        founded by King Casimir the Restorer in 1044. You can get there by bike (~10km) and
+        rest for a while or eat and drink something.</string>
+
+    <!-- String for Element 3: Name-->
+    <string name="pf_element_3_name">Lokomotywownia Płaszów</string>
+
+    <!-- String for Element 3: Location-->
+    <string name="pf_element_3_location">Kolejowa 25, 33-332 Kraków</string>
+
+    <!-- String for Element 3: Description-->
+    <string name="pf_element_3_description">It is a train repair workshop in the Polish town Kraków
+        was built in 1908. </string>
+
+    <!-- String for Element 4: Name-->
+    <string name="pf_element_4_name">Wieliczka salt mine</string>
+
+    <!-- String for Element 4: Location-->
+    <string name="pf_element_4_location">Daniłowicza 10, 32-020 Wieliczka</string>
+
+    <!-- String for Element 4: Description-->
+    <string name="pf_element_4_description">It is located in the town of Wieliczka in southern Poland,
+        lies within the Kraków metropolitan area. Opened in the 13th century, the mine produced table
+        salt continuously until 2007, as one of the world's oldest salt mines in operation. </string>
 
 
     <!-- Strings for Restaurants Fragment (rf) -->

@@ -2,7 +2,8 @@ package com.example.android.tourguideapp;
 
 /**
  * {@link TourElement} represents atraction at the city that the user wants to see / visit.
- * It contains ...
+ * It is an object which contain information about historical places, restaurants, events and other
+ * places to visit.
  */
 
 public class TourElement {
