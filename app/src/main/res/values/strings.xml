@@ -44,7 +44,7 @@
     <string name="cf_element_0_description">A castle residency build for polish monarchy</string>
 
     <!-- String for Element 1: Name-->
-    <string name="cf_element_1_name">Main Square</string>
+    <string name="cf_element_1_name">Main Square (Rynek Główny)</string>
 
     <!-- String for Element 1: Location-->
     <string name="cf_element_1_location">30-062 Kraków</string>
@@ -83,10 +83,10 @@
         in Kraków, Poland. Build in 14th century.</string>
 
     <!-- String for Element 5: Name-->
-    <string name="cf_element_5_name">Kazimierz</string>
+    <string name="cf_element_5_name">District: Kazimierz</string>
 
     <!-- String for Element 5: Location-->
-    <string name="cf_element_5_location">Kazimierz, Kraków</string>
+    <string name="cf_element_5_location">31-045 Kraków</string>
 
     <!-- String for Element 5: Description-->
     <string name="cf_element_5_description">It is a historical district of Kraków and Kraków Old Town, Poland.</string>
@@ -254,6 +254,5 @@
 
     <!-- String for Element 5: Description-->
     <string name="rf_element_5_description">Polish cuisine</string>
-
 
 </resources>

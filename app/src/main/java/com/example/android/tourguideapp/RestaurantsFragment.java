@@ -17,6 +17,7 @@ public class RestaurantsFragment extends Fragment {
 
         TextView welcomeTextView =(TextView) rootView.findViewById(R.id.welcome_message);
         welcomeTextView.setText(R.string.welcome_restaurants_fragment);
+        welcomeTextView.getBackground().setAlpha(140);
 
         final ArrayList<TourElement> tourElements = new ArrayList<TourElement>();
         tourElements.add(new TourElement(getString(R.string.rf_element_0_name),

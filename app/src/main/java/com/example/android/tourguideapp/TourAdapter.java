@@ -42,7 +42,6 @@ public class TourAdapter extends FragmentPagerAdapter {
         }
     }
 
-
     /**
      * Return the total number of pages.
      */
@@ -67,4 +66,3 @@ public class TourAdapter extends FragmentPagerAdapter {
         }
     }
 }
-

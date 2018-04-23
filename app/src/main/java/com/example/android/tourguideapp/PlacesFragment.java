@@ -7,12 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 import android.widget.TextView;
-
 import java.util.ArrayList;
-
-/**
- * Created by Iwona on 22.04.2018.
- */
 
 public class PlacesFragment extends Fragment {
     @Override
@@ -21,6 +16,7 @@ public class PlacesFragment extends Fragment {
 
         TextView welcomeTextView =(TextView) rootView.findViewById(R.id.welcome_message);
         welcomeTextView.setText(R.string.welcome_places_fragment);
+        welcomeTextView.getBackground().setAlpha(140);
 
         final ArrayList<TourElement> tourElements = new ArrayList<TourElement>();
         tourElements.add(new TourElement(getString(R.string.pf_element_0_name),
