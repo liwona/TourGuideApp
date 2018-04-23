@@ -5,13 +5,19 @@
     <color name="colorAccent">#FF4081</color>
 
     <!-- Primary color of the app (shown in the app bar) -->
-    <color name="primary_color">#2196F3</color>
+    <color name="primary_color">#4CAF50</color>
 
     <!-- Primary dark color of the app (shown in the status bar) -->
-    <color name="primary_dark_color">#1565C0</color>
+    <color name="primary_dark_color">#2E7D32</color>
 
     <!-- Background color for app -->
-    <color name="primary_background">#BBDEFB</color>
+    <color name="primary_background">#FFF176</color>
+
+    <!-- Color selected category in Tabs -->
+    <color name="selected_category_tabs">#FFEA00</color>
+
+    <!-- Color for other than selected categories in Tabs -->
+    <color name="categories_tabs">#FFEE58</color>
 
 
 </resources>

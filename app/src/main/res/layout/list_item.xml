@@ -8,7 +8,8 @@
     <ImageView
         android:id="@+id/image"
         android:layout_width="@dimen/list_item_height"
-        android:layout_height="@dimen/list_item_height" />
+        android:layout_height="@dimen/list_item_height"
+        android:layout_marginLeft="8dp"/>
 
     <RelativeLayout
         android:id="@+id/text_container"
@@ -19,7 +20,7 @@
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@id/image"
         android:orientation="vertical"
-        android:paddingLeft="16dp">
+        android:paddingLeft="8dp">
 
         <TextView
             android:id="@+id/name_text_view"
@@ -27,6 +28,7 @@
             android:gravity="top"
             android:textStyle="bold"
             tools:text="Wawel"
+            android:textSize="@dimen/text_size_name"
             style="@style/TextViewListView"/>
 
         <TextView
@@ -34,6 +36,7 @@
             android:layout_below="@id/name_text_view"
             android:gravity="top"
             tools:text="Wawel 5"
+            android:textSize="@dimen/text_size_location"
             style="@style/TextViewListView"/>
 
         <TextView
@@ -41,6 +44,7 @@
             android:layout_below="@id/location_text_view"
             android:gravity="top"
             tools:text="Royal Residency"
+            android:textSize="@dimen/text_size_description"
             style="@style/TextViewListView"
             android:layout_marginBottom="5dp"/>
     </RelativeLayout>

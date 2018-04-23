@@ -2,4 +2,14 @@
 <resources>
     <!-- Height of each list item -->
     <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Text Size for Name Text View -->
+    <dimen name="text_size_name">20sp</dimen>
+
+    <!-- Text Size for Location Text View -->
+    <dimen name="text_size_location">18sp</dimen>
+
+    <!-- Text Size for Description Text View -->
+    <dimen name="text_size_description">16sp</dimen>
+
 </resources>
