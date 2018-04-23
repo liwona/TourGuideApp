@@ -8,6 +8,16 @@
         <item name="colorAccent">@color/selected_category_tabs</item>
     </style>
 
+    <!-- Style for ImageView in ListView -->
+    <style name="ImageViewListView">
+        <item name="android:layout_width">@dimen/list_item_height</item>
+        <item name="android:layout_height">@dimen/list_item_height</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
     <!-- Style for TextView in ListView -->
     <style name="TextViewListView">
         <item name="android:layout_width">match_parent</item>
