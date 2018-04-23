@@ -19,5 +19,17 @@
     <!-- Color for other than selected categories in Tabs -->
     <color name="categories_tabs">#FFEE58</color>
 
+    <!-- Background color for Culture Fragment-->
+    <color name="culture_background">#FFF176</color>
+
+    <!-- Background color for Events Fragment-->
+    <color name="events_background">#4FC3F7</color>
+
+    <!-- Background color for Places Fragment-->
+    <color name="places_background">#F06292</color>
+
+    <!-- Background color for Resturants &Pubs Fragment-->
+    <color name="restaurants_background">#90A4AE</color>
+
 
 </resources>
