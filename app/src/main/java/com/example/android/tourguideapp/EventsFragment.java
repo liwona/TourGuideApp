@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -14,6 +15,9 @@ public class EventsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.element_list, container, false);
+
+        TextView welcomeTextView =(TextView) rootView.findViewById(R.id.welcome_message);
+        welcomeTextView.setText(R.string.welcome_events_fragment);
 
         final ArrayList<TourElement> tourElements = new ArrayList<TourElement>();
         tourElements.add(new TourElement(getString(R.string.ef_element_0_name),

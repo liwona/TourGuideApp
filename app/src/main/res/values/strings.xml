@@ -15,6 +15,24 @@
     <string name="category_places">Places</string>
 
 
+    <!-- Welcome message for Cultural Fragment-->
+    <string name="welcome_cultural_fragment">Welcome to Cracow\'s Tour App.\nFind below information
+        about interesting historical places to visit in Cracow.</string>
+
+    <!-- Welcome message for Events Fragment-->
+    <string name="welcome_events_fragment">Welcome to Cracow\'s Tour App.\nFind below information
+        about interesting events.</string>
+
+    <!-- Welcome message for Places Fragment-->
+    <string name="welcome_places_fragment">Welcome to Cracow\'s Tour App.\nFind below information
+        about interesting places to visit outside of historical center. It\'s good opportunity to exercise
+        to get there and rest a little bit.</string>
+
+    <!-- Welcome message for Restaurants & Pubs Fragment-->
+    <string name="welcome_restaurants_fragment">Welcome to Cracow\'s Tour App.\nFind below information
+        about restaurant with delicious food and pubs with excellent beer and cocktails.</string>
+
+
     <!-- Strings for Cultural Fragment (cf) -->
     <!-- String for Element 0: Name-->
     <string name="cf_element_0_name">Wawel Castle</string>
