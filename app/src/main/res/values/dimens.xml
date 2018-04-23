@@ -11,5 +11,4 @@
 
     <!-- Text Size for Description Text View -->
     <dimen name="text_size_description">16sp</dimen>
-
 </resources>
