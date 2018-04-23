@@ -183,13 +183,59 @@
 
     <!-- Strings for Restaurants Fragment (rf) -->
     <!-- String for Element 0: Name-->
-    <string name="rf_element_0_name"></string>
+    <string name="rf_element_0_name">Restauracja Nolio</string>
 
     <!-- String for Element 0: Location-->
-    <string name="rf_element_0_location"></string>
+    <string name="rf_element_0_location">Krakowska 27, 31-062 Kraków</string>
 
     <!-- String for Element 0: Description-->
-    <string name="rf_element_0_description"></string>
+    <string name="rf_element_0_description">Neapolitan pizza, Italian cuisine</string>
+
+    <!-- String for Element 1: Name-->
+    <string name="rf_element_1_name">Pub Jan</string>
+
+    <!-- String for Element 1: Location-->
+    <string name="rf_element_1_location">Bożego Ciała 11, 30-001 Kraków</string>
+
+    <!-- String for Element 1: Description-->
+    <string name="rf_element_1_description">Concerts, beers &amp; cocktails</string>
+
+    <!-- String for Element 2: Name-->
+    <string name="rf_element_2_name">Pimiento Argentino Grill Restauracja</string>
+
+    <!-- String for Element 2: Location-->
+    <string name="rf_element_2_location">Józefa 26, 30-001 Kraków</string>
+
+    <!-- String for Element 2: Description-->
+    <string name="rf_element_2_description">Steak House, Polish cuisine</string>
+
+    <!-- String for Element 3: Name-->
+    <string name="rf_element_3_name">Restauracja Pino</string>
+
+    <!-- String for Element 3: Location-->
+    <string name="rf_element_3_location">Szczepańska 4, 33-332 Kraków</string>
+
+    <!-- String for Element 3: Description-->
+    <string name="rf_element_3_description">World\'s cuisine in both popular and exclusive versions</string>
+
+    <!-- String for Element 4: Name-->
+    <string name="rf_element_4_name">Bania-Luka</string>
+
+    <!-- String for Element 4: Location-->
+    <string name="rf_element_4_location">Estery 12, 33-332 Kraków</string>
+
+    <!-- String for Element 4: Description-->
+    <string name="rf_element_4_description">The well-proven formula of 4 PLN (1 euro) per any drink,
+        whether a shot of vodka, a beer or a cappuccino, and 8 PLN (2 euros) per any food</string>
+
+    <!-- String for Element 5: Name-->
+    <string name="rf_element_5_name">Kuchnia U Babci Maliny</string>
+
+    <!-- String for Element 5: Location-->
+    <string name="rf_element_5_location">Sławkowska 17, 30-001 Kraków</string>
+
+    <!-- String for Element 5: Description-->
+    <string name="rf_element_5_description">Polish cuisine</string>
 
 
 </resources>
