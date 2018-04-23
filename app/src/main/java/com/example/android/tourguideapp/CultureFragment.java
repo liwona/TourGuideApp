@@ -15,27 +15,20 @@ public class CultureFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.element_list, container, false);
 
         final ArrayList<TourElement> tourElements = new ArrayList<TourElement>();
-        tourElements.add(new TourElement("Wawel Castle",
-                "Wawel 5, 31-001 Kraków", "A castle residency build " +
-                "for polish monarchy", R.drawable.wawel));
-        tourElements.add(new TourElement("Main Square",
-                "30-062 Kraków", "It is the principal urban space " +
-                "located at the center of the city"));
-        tourElements.add(new TourElement("Kraków Cloth Hall (Sukiennice)",
-                "Rynek Główny 1-3, 30-001 Kraków", " It is the " +
-                "central feature of the main market square in the Kraków Old Town"));
-        tourElements.add(new TourElement("Oskar Schindler's Enamel Factory",
-                "Lipowa 4, 30-702 Kraków", "A former metal item factory in " +
-                "Kraków, is now host to two museums: the Museum of Contemporary Art in Kraków, " +
-                "on the former workshops, and a branch of the Historical Museum of the City of " +
-                "Kraków"));
-        tourElements.add(new TourElement("St. Mary's Basilica (Kościół Mariacki)",
-                "plac Mariacki 5, 31-042 Kraków", "A Brick Gothic " +
-                "church adjacent to the Main Market Square in Kraków, Poland. Built in the " +
-                "14th century", R.drawable.mariacki));
-        tourElements.add(new TourElement("Kazimierz",
-                "Kazimierz, Kraków", "It is a historical " +
-                "district of Kraków and Kraków Old Town, Poland."));
+        tourElements.add(new TourElement(getString(R.string.cf_element_0_name),
+                getString(R.string.cf_element_0_location), getString(R.string.cf_element_0_description),
+                R.drawable.wawel));
+        tourElements.add(new TourElement(getString(R.string.cf_element_1_name),
+                getString(R.string.cf_element_1_location), getString(R.string.cf_element_1_description)));
+        tourElements.add(new TourElement(getString(R.string.cf_element_2_name),
+                getString(R.string.cf_element_2_location), getString(R.string.cf_element_2_description)));
+        tourElements.add(new TourElement(getString(R.string.cf_element_3_name),
+                getString(R.string.cf_element_3_location), getString(R.string.cf_element_3_description)));
+        tourElements.add(new TourElement(getString(R.string.cf_element_4_name),
+                getString(R.string.cf_element_4_location), getString(R.string.cf_element_4_description),
+                R.drawable.mariacki));
+        tourElements.add(new TourElement(getString(R.string.cf_element_5_name),
+                getString(R.string.cf_element_5_location), getString(R.string.cf_element_5_description)));
 
 
         // Create an {@link TourElementAdapter}, whose data source is a list of {@link TourElement}. The

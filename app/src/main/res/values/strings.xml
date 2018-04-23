@@ -13,4 +13,98 @@
 
     <!-- Category name for the places other than only cultural to visit in the city -->
     <string name="category_places">Places</string>
+
+
+    <!-- Strings for Cultural Fragment (cf) -->
+    <!-- String for Element 0: Name-->
+    <string name="cf_element_0_name">Wawel Castle</string>
+
+    <!-- String for Element 0: Location-->
+    <string name="cf_element_0_location">Wawel 5, 31-001 Kraków</string>
+
+    <!-- String for Element 0: Description-->
+    <string name="cf_element_0_description">A castle residency build for polish monarchy</string>
+
+    <!-- String for Element 1: Name-->
+    <string name="cf_element_1_name">Main Square</string>
+
+    <!-- String for Element 1: Location-->
+    <string name="cf_element_1_location">30-062 Kraków</string>
+
+    <!-- String for Element 1: Description-->
+    <string name="cf_element_1_description">It is the principal urban space located at the center of the city</string>
+
+    <!-- String for Element 2: Name-->
+    <string name="cf_element_2_name">Kraków Cloth Hall (Sukiennice)</string>
+
+    <!-- String for Element 2: Location-->
+    <string name="cf_element_2_location">Rynek Główny 1-3, 30-001 Kraków</string>
+
+    <!-- String for Element 2: Description-->
+    <string name="cf_element_2_description">It is the central feature of the main market square in the Kraków Old Town</string>
+
+    <!-- String for Element 3: Name-->
+    <string name="cf_element_3_name">Oskar Schindler\'s Enamel Factory</string>
+
+    <!-- String for Element 3: Location-->
+    <string name="cf_element_3_location">Lipowa 4, 30-702 Kraków</string>
+
+    <!-- String for Element 3: Description-->
+    <string name="cf_element_3_description">A former metal item factory in Kraków, is now host to
+        two museums: the Museum of Contemporary Art in Kraków, on the former workshops, and a branch
+        of the Historical Museum of the City of Kraków</string>
+
+    <!-- String for Element 4: Name-->
+    <string name="cf_element_4_name">St. Mary\'s Basilica (Kościół Mariacki)</string>
+
+    <!-- String for Element 4: Location-->
+    <string name="cf_element_4_location">plac Mariacki 5, 31-042 Kraków</string>
+
+    <!-- String for Element 4: Description-->
+    <string name="cf_element_4_description">A Brick Gothic church adjacent to the Main Market Square
+        in Kraków, Poland. Build in 14th century.</string>
+
+    <!-- String for Element 5: Name-->
+    <string name="cf_element_5_name">Kazimierz</string>
+
+    <!-- String for Element 5: Location-->
+    <string name="cf_element_5_location">Kazimierz, Kraków</string>
+
+    <!-- String for Element 5: Description-->
+    <string name="cf_element_5_description">It is a historical district of Kraków and Kraków Old Town, Poland.</string>
+
+
+    <!-- Strings for Events Fragment (ef) -->
+    <!-- String for Element 0: Name-->
+    <string name="ef_element_0_name"></string>
+
+    <!-- String for Element 0: Location-->
+    <string name="ef_element_0_location"></string>
+
+    <!-- String for Element 0: Description-->
+    <string name="ef_element_0_description"></string>
+
+
+    <!-- Strings for Places Fragment (pf) -->
+    <!-- String for Element 0: Name-->
+    <string name="pf_element_0_name"></string>
+
+    <!-- String for Element 0: Location-->
+    <string name="pf_element_0_location"></string>
+
+    <!-- String for Element 0: Description-->
+    <string name="pf_element_0_description"></string>
+
+
+    <!-- Strings for Restaurants Fragment (rf) -->
+    <!-- String for Element 0: Name-->
+    <string name="rf_element_0_name"></string>
+
+    <!-- String for Element 0: Location-->
+    <string name="rf_element_0_location"></string>
+
+    <!-- String for Element 0: Description-->
+    <string name="rf_element_0_description"></string>
+
+
 </resources>
